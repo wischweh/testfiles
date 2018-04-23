@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:NDR Kultur
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20180503T200000
+DTSTART:20180503T200000
+DTEND:20180503T210000
+DTSTAMP:20180413T102156
+CONTACT:NDR Kultur
+LOCATION:Tagungszentrum Schloss Herrenhausen \nHerrenhäuser Straße 5  \n30419 Hannover
+GEO:52.391847;9.700106
+SUMMARY:Diskussion\nHerrenhäuser Gespräch: Wir müssen reden!
+DESCRIPTION:Kommunikation ist im Wandel begriffen und wird neu vermessen: im privaten, politischen und im medialen Feld. Wie funktioniert also eine zeitgemäße Debattenkultur? \n\nhttps://www.ndr.de/ndrkultur/sendungen/Herrenhaeuser-Gespraech-Marx-hat-keinen-Bart,herrenhaeusergespraeche154.html\n\n
+END:VEVENT
+END:VCALENDAR
